@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://media0.giphy.com/media/rW2VWb8s0RXZqbvAmI/giphy.webp?cid=ecf05e47ib5wu9m9uwvao2g8ydadofwmlizkxsvoxa2ysfdn&ep=v1_gifs_search&rid=giphy.webp&ct=g");
+    background-size: cover;
+}
+
+.lesgoo
+{
+    text-align: center;
+    color:whitesmoke;
+    
+    
+}
+.butti
+{
+    text-align: center;
+    text-shadow: 0 0 1px darkblue;
+}

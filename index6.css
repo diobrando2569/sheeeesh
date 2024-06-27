@@ -1,0 +1,22 @@
+body
+{
+    margin:0;
+}
+.lesgoo
+{
+    
+    margin:0 auto;
+    background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmp0MmN4Nzk2NHBnOTFlM2RobXIzMHJ2dnB5anNqY3BiYXdzZmhpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jP51ALLWFcfvxyvK1q/giphy.webp");
+    background-size: cover;
+    margin-top: -23px;
+    height:100vh;
+    
+}
+.de
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 50px;
+    color: black;
+    
+}

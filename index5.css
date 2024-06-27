@@ -1,0 +1,44 @@
+body{
+    margin:0;
+    font-family: sans-serif;
+    color: #27292c;
+}
+
+.first
+{
+     background-image: url("https://media3.giphy.com/media/OK5LK5zLFfdm/giphy.webp?cid=790b76112qpysy7xtz1qwwmeyzlh26cy2nr8zhz64anzpv78&ep=v1_gifs_search&rid=giphy.webp&ct=g");
+     background-size:cover;   
+     text-align: center;
+     height: 100vh;
+     
+}
+#smallimg
+{
+    margin-top: 80px;
+    width:200px;
+    height:200px;
+    border-radius: 40px; 
+    
+}
+.texti
+{
+    display:block;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 15px ;
+    text-shadow: 0px 0px 2px white;
+}
+.yes-no
+{
+    margin-top: 20px;
+    display:flex;
+    justify-content: center;
+    gap:10px;
+}
+.cont
+{
+    display:block;
+    margin-bottom: 20px;
+    
+    
+}
